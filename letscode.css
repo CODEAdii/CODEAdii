@@ -1,0 +1,125 @@
+        body {
+            background-color: rgb(84, 152, 212);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        
+        html {
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            box-sizing: border-box;
+        }
+        
+        .pannel {
+            background-color: azure;
+            border-radius: 10px;
+            padding: 15px 25px;
+            width: 100%;
+            max-width: 960px;
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            text-transform: uppercase;
+        }
+        
+        .price-pannel {
+            border-bottom: 1px solid rgb(182, 222, 231);
+            letter-spacing: 1px;
+        }
+        
+        .pricing-panel :last-child {
+            border-bottom: none;
+        }
+        
+        .pricing-image {
+            margin-bottom: 25px;
+            max-width: 100%;
+        }
+        
+        .price-header {
+            color: rgb(153, 153, 233);
+            font-weight: bold;
+            letter-spacing: 4px;
+        }
+        /* .list1 {
+     border-bottom: 1px solid rgb(182, 222, 231);
+     border-top: 1px solid rgb(182, 222, 231);
+     margin-bottom: 25px;
+ }
+ 
+ .list2 {
+     border-bottom: 1px solid rgb(182, 222, 231);
+     margin: 25px 25px 0;
+ }
+ 
+ .list {
+     font-weight: 600;
+     letter-spacing: 1px;
+     font-size: 12px;
+     line-height: 1.5;
+     padding: 15px 0;
+ } */
+        
+        .list {
+            letter-spacing: 1px;
+            margin: 50px 0 25px;
+            color: #1364c7;
+        }
+        
+        .list-1 {
+            font-weight: 600;
+            letter-spacing: 1px;
+            font-size: 12px;
+            line-height: 1.5;
+            padding: 16px 0;
+            border-top: 1px solid #b7d4ed;
+        }
+        
+        .pricing-price {
+            color: rgb(74, 44, 194);
+            display: block;
+            font-size: 32px;
+            font-size: 700;
+        }
+        
+        .button {
+            border: 1px solid #88c2f5;
+            border-radius: 10px;
+            color: #348efe;
+            display: inline-block;
+            padding: 15px 35px;
+            text-decoration: none;
+            margin: 25px 0;
+            transition: all 0.5s ease-in-out;
+        }
+        
+        .button:hover,
+        .button:focus {
+            background-color: rgb(105, 105, 196);
+            color: rgb(191, 188, 188);
+        }
+        
+        .button.is-featured {
+            background-color: #0f63b8;
+        }
+        
+        .button.is-featured:hover,
+        .button.is-featured:focus {
+            background-color: #1293e9;
+            border-color: rgb(236, 190, 7);
+        }
+        
+        @media (min-width:900px) {
+            .pannel {
+                flex-direction: row;
+            }
+            .price-pannel {
+                border-bottom: none;
+                border-right: 1px solid #c0d0df;
+                padding: 25px;
+            }
+            .price-pannel:last-child {
+                border-right: none;
+            }
+        }
