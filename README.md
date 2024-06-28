@@ -19,7 +19,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=CODEAdii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CODEAdii&limit=5&theme=merko&combine_all_yearly_contributions=true)
