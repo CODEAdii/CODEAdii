@@ -1,5 +1,8 @@
 # 💫 About Me:
-Enhancing my web development skills through practical projects.<br>Currently learning React and Laravel.<br>Seeking new and challenging opportunities.<br>Fun fact: I believe in working smart and efficiently.
+- 🌐 Enhancing my web development skills through practical projects.<br>
+- ⚛️ Currently learning React and Laravel.<br>
+- 🚀 Seeking new and challenging opportunities.<br>
+- 💡 Fun fact: I believe in working smart and efficiently.
 
 
 ## 🌐 Socials:
