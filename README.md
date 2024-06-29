@@ -33,7 +33,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=CODEAdii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-"Code is like humor. When you have to explain it, it’s bad." – Cory House<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
